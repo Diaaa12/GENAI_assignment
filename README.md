@@ -1,7 +1,8 @@
 **DEVELOPING STRATEGIES FOR THE BIDDING CARD GAME ’DIAMONDS’
-WITH GENAI
+WITH GENAI**
 
-Introduction**
+**Introduction**
+
 Diamonds is a captivating card game blending luck and strategy. The game involves three
 players, each assigned a suit except for diamonds, which remain separate initially. A random
 diamond card is drawn for bidding, conducted secretly, with the highest bidder obtaining the
@@ -14,6 +15,7 @@ game. This project aims to discuss the process of teaching GenAI the game, itera
 strategies, and writing a python code for the same.
 
 **Problem Statement**
+
 The primary challenge is to teach GenAI the game’s rules comprehensively and ensure
 its understanding through interactive gameplay and questioning. Subsequently, the aim is to
 develop strategies competitive against human players and possibly uncover new insights into
